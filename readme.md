@@ -1,5 +1,6 @@
 #CREAR UN MÓDULO	
-Para crear un módulo debemos usar la herramienta de generación de un módulo básico(SCAFFOLD): Con la línea de comandos situado en la carpeta source de Odoo ejecutamos el siguiente comando:![**](https://github.com/acarreiragonzalez/modulo-tutorial/blob/master/imagenes_readme/SCAFFOLD.jpg)###VISTAS BÁSICAS
+Para crear un módulo debemos usar la herramienta de generación de un módulo básico(SCAFFOLD): Con la línea de comandos situado en la carpeta source de Odoo ejecutamos el siguiente comando:![**](https://github.com/acarreiragonzalez/modulo-tutorial/blob/master/imagenes_readme/SCAFFOLD.jpg)
+###VISTAS BÁSICAS
 Creamos un archivo xml en la carpeta raíz del módulo creado llamado openacademy.xml. A continuación modificaremos openacademy.xml para cambiar la forma en que se muestran los datos.![**](https://github.com/acarreiragonzalez/modulo-tutorial/blob/master/imagenes_readme/VISTAS-BASICAS.jpg)
 Esta modificación hace que en el formulario se muestre una sección que separe en pestañas la descripción y un apartado Acerca de, así como para buscar los cursos por su nombre o descripción.
 ###RELACIONES ENTRE MODELOS
